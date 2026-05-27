@@ -31,7 +31,7 @@ An IoT-based Smart Pill Dispenser developed using ESP32 to automate medication r
 ![3D Model](3d_model.jpeg)
 
 ### 🔹 Prototype
-![Prototype](prototype.jpeg)
+![Prototype].(prototype.jpeg)
 
 ### 🔹 Mobile App Interface
 ![App Interface](app_interface.jpeg)
